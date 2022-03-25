@@ -2,11 +2,11 @@
 # coding: utf-8
 
 
-#chrome 要改成94版本
+#chrome 要改成94版本，不然會跑不動
 from time import sleep
 from selenium import webdriver
 
-
+#記得上網下載chromedriver
 import os
 path = "/Users/linyuci/Downloads/chromedriver 3"
 
